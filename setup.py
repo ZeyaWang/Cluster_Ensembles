@@ -91,7 +91,7 @@ setup(name = 'Cluster_Ensembles',
       license = 'MIT License',
       
       platforms = ('Any',),
-      install_requires = ['numexpr>=2.4', 'numpy>=1.9.0', 'psutil', 'scipy', 'sklearn', 
+      install_requires = ['numexpr>=2.4', 'numpy>=1.9.0', 'psutil', 'scipy', 'scikit-learn', 
                           'setuptools', 'tables'],
                           
       classifiers = ['Development Status :: 4 - Beta',
